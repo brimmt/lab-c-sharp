@@ -1,0 +1,14 @@
+C:\Users\brimm\lab-c-sharp\foundations\bin\Debug\net9.0\foundations.exe
+C:\Users\brimm\lab-c-sharp\foundations\bin\Debug\net9.0\foundations.deps.json
+C:\Users\brimm\lab-c-sharp\foundations\bin\Debug\net9.0\foundations.runtimeconfig.json
+C:\Users\brimm\lab-c-sharp\foundations\bin\Debug\net9.0\foundations.dll
+C:\Users\brimm\lab-c-sharp\foundations\bin\Debug\net9.0\foundations.pdb
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.AssemblyInfoInputs.cache
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.AssemblyInfo.cs
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.csproj.CoreCompileInputs.cache
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.dll
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\refint\foundations.dll
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.pdb
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.genruntimeconfig.cache
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\ref\foundations.dll
