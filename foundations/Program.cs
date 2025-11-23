@@ -82,4 +82,22 @@ Console.WriteLine($"Your total is: {result}");
 // - Practice with TryParse() for safer user input
 // =============================================
 
+
+
+// =============================================
+// SECTION 5: Implicit Conversion
+// =============================================
+
+int myInt = 12;
+double myDouble = myInt;   // This works because Double can intake all of int information. 
+long myLong = myInt;
+
+
+// Explicit Conversion
+
+
+
+
+
+
 Console.ReadKey();

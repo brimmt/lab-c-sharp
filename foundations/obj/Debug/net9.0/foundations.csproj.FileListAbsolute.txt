@@ -12,3 +12,4 @@ C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\refint\foundations.dll
 C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.pdb
 C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.genruntimeconfig.cache
 C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\ref\foundations.dll
+C:\Users\brimm\lab-c-sharp\foundations\obj\Debug\net9.0\foundations.sourcelink.json
